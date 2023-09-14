@@ -7,6 +7,8 @@ sites:
     url: https://www.filmhouseng.com
   - name: Filmhouse Backend
     url: https://fh-api.filmhouseng.com
+    expectedStatusCodes:
+      - 404
   - name: Movie List
     url: https://fh-api.filmhouseng.com/movie/new-list?cinema_id=12&start_date=2023-09-14&end_date=2023-09-14&platforn=WEB
   - name: Cinema List
@@ -14,17 +16,21 @@ sites:
   - name: Movie Banners
     url: https://fh-api.filmhouseng.com/movie/movie-banners?platform=WEB
   - name: Coming Soon
-    url: https://fh-api.filmhouseng.com/movie/new-coming-soon?platform=WEB
+    url: https://fh-api.filmhouseng.com/movie/new-coming-soon?platform=WEBz
+
+assignees: 
+  - lexNwimue
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  theme: night
   baseUrl: /filmhouse-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.filmhouseng.com/images/FHC%20LOGO.png
   name: Filmhouse Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** - The Ultimate Cinema Experience"
+  introMessage: This stage page keeps track of the status of all Filmhouse software infrastructure! [**Visit**](https://fh-api.filmhouseng.com)
   navbar:
     - title: Status
       href: /
