@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "movie-list",
     "status": "up",
-    "uptime": "97.93%",
-    "uptimeDay": "93.76%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "97.93%",
-    "time": 2344,
-    "timeDay": 2839,
-    "timeWeek": 2344,
-    "timeMonth": 2344,
-    "timeYear": 2344,
+    "uptime": "97.68%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
+    "time": 2241,
+    "timeDay": 2456,
+    "timeWeek": 2241,
+    "timeMonth": 2241,
+    "timeYear": 2241,
     "dailyMinutesDown": {
-      "2023-09-17": 90
+      "2023-09-17": 101
     }
   },
   {
