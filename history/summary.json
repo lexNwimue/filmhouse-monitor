@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.filmhouseng.com.ico",
     "slug": "filmhouse-frontend",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 126,
-    "timeWeek": 206,
-    "timeMonth": 206,
-    "timeYear": 206,
+    "uptime": "99.93%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 189,
+    "timeDay": 123,
+    "timeWeek": 189,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2023-09-20": 0
+      "2023-09-20": 6
     }
   },
   {
