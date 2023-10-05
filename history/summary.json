@@ -99,17 +99,19 @@
     "url": "https://fh-api.filmhouseng.com/movie/new-coming-soon?platform=WEBz",
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "coming-soon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 200,
-    "timeWeek": 195,
-    "timeMonth": 202,
-    "timeYear": 202,
-    "dailyMinutesDown": {}
+    "time": 195,
+    "timeDay": 161,
+    "timeWeek": 178,
+    "timeMonth": 195,
+    "timeYear": 195,
+    "dailyMinutesDown": {
+      "2023-10-05": 0
+    }
   }
 ]
