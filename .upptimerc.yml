@@ -16,7 +16,7 @@ sites:
   - name: Movie Banners
     url: https://fh-api.filmhouseng.com/movie/movie-banners?platform=WEB
   - name: Coming Soon
-    url: https://fh-api.filmhouseng.com/movie/new-coming-soon?platform=WEBz
+    url: https://fh-api.filmhouseng.com/movie/new-coming-soon?platform=WEB
 
 assignees: 
   - lexNwimue
