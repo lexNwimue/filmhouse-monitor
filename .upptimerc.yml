@@ -30,7 +30,7 @@ status-website:
   logoUrl: https://www.filmhouseng.com/images/FHC%20LOGO.png
   name: Filmhouse Status
   introTitle: "**Upptime** - The Ultimate Cinema Experience"
-  introMessage: This stage page keeps track of the status of all Filmhouse software infrastructure! [**Visit**](https://fh-api.filmhouseng.com)
+  introMessage: This stage page keeps track of the status of all Filmhouse software infrastructure! [**Visit**](https://www.filmhouseng.com)
   navbar:
     - title: Status
       href: /
