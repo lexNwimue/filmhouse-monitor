@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "filmhouse-backend",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 199,
     "timeDay": 166,
     "timeWeek": 171,
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2023-10-05": 12,
       "2023-09-14": 4
     }
   },
@@ -44,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "movie-list",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.60%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 2231,
     "timeDay": 1095,
     "timeWeek": 1892,
     "timeMonth": 2231,
     "timeYear": 2231,
     "dailyMinutesDown": {
-      "2023-10-05": 12,
       "2023-10-04": 31,
       "2023-09-17": 90
     }
@@ -66,19 +64,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "cinema-list",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 52,
     "timeDay": 40,
     "timeWeek": 38,
     "timeMonth": 52,
     "timeYear": 52,
-    "dailyMinutesDown": {
-      "2023-10-05": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Movie Banners",
@@ -86,19 +82,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "movie-banners",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 290,
     "timeWeek": 280,
     "timeMonth": 289,
     "timeYear": 289,
-    "dailyMinutesDown": {
-      "2023-10-05": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Coming Soon",
