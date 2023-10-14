@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "movie-list",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.62%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 2335,
     "timeDay": 3274,
     "timeWeek": 2670,
     "timeMonth": 2335,
     "timeYear": 2335,
     "dailyMinutesDown": {
-      "2023-10-14": 30,
+      "2023-10-14": 40,
       "2023-10-04": 31,
       "2023-09-17": 90
     }
@@ -64,19 +64,19 @@
     "url": "https://fh-api.filmhouseng.com/cinema",
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "cinema-list",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 67,
-    "timeDay": 144,
-    "timeWeek": 106,
-    "timeMonth": 67,
-    "timeYear": 67,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 68,
+    "timeDay": 140,
+    "timeWeek": 108,
+    "timeMonth": 68,
+    "timeYear": 68,
     "dailyMinutesDown": {
-      "2023-10-14": 2
+      "2023-10-14": 10
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "movie-banners",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.91%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 272,
     "timeDay": 225,
     "timeWeek": 216,
     "timeMonth": 272,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-10-14": 28
+      "2023-10-14": 38
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "coming-soon",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.65%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 201,
     "timeDay": 232,
     "timeWeek": 215,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-10-14": 28,
+      "2023-10-14": 38,
       "2023-10-05": 111
     }
   }
