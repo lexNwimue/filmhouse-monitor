@@ -1,7 +1,7 @@
 url: https://fh-api.filmhouseng.com
-status: down
-code: 502
-responseTime: 74
-lastUpdated: 2023-10-27T20:44:42.160Z
+status: up
+code: 404
+responseTime: 80
+lastUpdated: 2023-10-27T20:50:21.597Z
 startTime: 2023-09-14T20:41:12.332Z
 generator: Upptime <https://github.com/upptime/upptime>
