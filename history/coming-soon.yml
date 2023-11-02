@@ -1,7 +1,7 @@
 url: https://fh-api.filmhouseng.com/movie/new-coming-soon?platform=WEB
-status: up
-code: 200
-responseTime: 219
-lastUpdated: 2023-11-01T23:11:21.652Z
+status: down
+code: 502
+responseTime: 39
+lastUpdated: 2023-11-02T07:26:49.860Z
 startTime: 2023-09-14T20:41:19.054Z
 generator: Upptime <https://github.com/upptime/upptime>
