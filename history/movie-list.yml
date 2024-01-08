@@ -1,7 +1,7 @@
 url: https://fh-api.filmhouseng.com/movie/new-list?cinema_id=12&start_date=2023-10-07&end_date=2023-10-07&platform=WEB
 status: up
 code: 200
-responseTime: 570
-lastUpdated: 2024-01-07T23:11:04.969Z
+responseTime: 479
+lastUpdated: 2024-01-08T23:12:11.436Z
 startTime: 2023-09-14T20:41:15.290Z
 generator: Upptime <https://github.com/upptime/upptime>
