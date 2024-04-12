@@ -1,7 +1,7 @@
 url: https://fh-api.filmhouseng.com/movie/movie-banners?platform=WEB
-status: down
-code: 502
-responseTime: 53
-lastUpdated: 2024-04-12T14:09:41.074Z
+status: up
+code: 200
+responseTime: 209
+lastUpdated: 2024-04-12T14:23:34.136Z
 startTime: 2023-09-14T20:41:18.252Z
 generator: Upptime <https://github.com/upptime/upptime>
