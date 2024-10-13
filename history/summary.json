@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.filmhouseng.com.ico",
     "slug": "filmhouse-frontend",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.62%",
-    "time": 427,
-    "timeDay": 618,
-    "timeWeek": 828,
-    "timeMonth": 983,
-    "timeYear": 444,
+    "time": 429,
+    "timeDay": 1224,
+    "timeWeek": 884,
+    "timeMonth": 1004,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2024-09-26": 50,
       "2024-09-21": 25,
@@ -48,9 +48,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 203,
-    "timeDay": 320,
-    "timeWeek": 253,
-    "timeMonth": 230,
+    "timeDay": 259,
+    "timeWeek": 246,
+    "timeMonth": 229,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2024-07-23": 33,
@@ -74,11 +74,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.55%",
-    "time": 1260,
-    "timeDay": 596,
-    "timeWeek": 1275,
-    "timeMonth": 1752,
-    "timeYear": 1156,
+    "time": 1269,
+    "timeDay": 5644,
+    "timeWeek": 1836,
+    "timeMonth": 1896,
+    "timeYear": 1163,
     "dailyMinutesDown": {
       "2024-10-09": 19,
       "2024-09-20": 19,
@@ -98,8 +98,7 @@
       "2023-11-13": 63,
       "2023-11-02": 192,
       "2023-10-28": 89,
-      "2023-10-24": 94,
-      "2023-10-14": 113
+      "2023-10-24": 94
     }
   },
   {
@@ -108,13 +107,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "cinema-list",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 70,
-    "timeDay": 72,
+    "timeDay": 70,
     "timeWeek": 72,
     "timeMonth": 72,
     "timeYear": 71,
@@ -127,8 +126,7 @@
       "2024-02-21": 478,
       "2023-11-13": 139,
       "2023-10-28": 89,
-      "2023-10-24": 31,
-      "2023-10-14": 52
+      "2023-10-24": 31
     }
   },
   {
@@ -156,8 +154,7 @@
       "2024-02-21": 478,
       "2023-11-13": 153,
       "2023-10-28": 89,
-      "2023-10-24": 88,
-      "2023-10-14": 111
+      "2023-10-24": 88
     }
   },
   {
@@ -185,8 +182,7 @@
       "2024-02-21": 477,
       "2023-11-13": 153,
       "2023-10-28": 89,
-      "2023-10-24": 87,
-      "2023-10-14": 111
+      "2023-10-24": 87
     }
   }
 ]
