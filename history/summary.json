@@ -6,15 +6,15 @@
     "slug": "filmhouse-frontend",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "96.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.99%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.56%",
-    "time": 449,
-    "timeDay": 1020,
-    "timeWeek": 1210,
-    "timeMonth": 1028,
-    "timeYear": 473,
+    "time": 450,
+    "timeDay": 836,
+    "timeWeek": 1097,
+    "timeMonth": 1031,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2024-10-21": 44,
       "2024-10-18": 260,
@@ -46,13 +46,13 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.89%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.73%",
     "time": 203,
-    "timeDay": 310,
-    "timeWeek": 199,
-    "timeMonth": 230,
+    "timeDay": 263,
+    "timeWeek": 226,
+    "timeMonth": 235,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2024-10-15": 112,
@@ -72,16 +72,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "movie-list",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.89%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.55%",
-    "time": 1274,
-    "timeDay": 599,
-    "timeWeek": 1668,
-    "timeMonth": 1744,
-    "timeYear": 1100,
+    "time": 1272,
+    "timeDay": 602,
+    "timeWeek": 1334,
+    "timeMonth": 1590,
+    "timeYear": 1093,
     "dailyMinutesDown": {
       "2024-10-15": 112,
       "2024-10-09": 19,
@@ -101,8 +101,7 @@
       "2024-01-02": 126,
       "2023-11-13": 63,
       "2023-11-02": 192,
-      "2023-10-28": 89,
-      "2023-10-24": 94
+      "2023-10-28": 89
     }
   },
   {
@@ -113,13 +112,13 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.89%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.71%",
     "time": 70,
-    "timeDay": 72,
-    "timeWeek": 52,
-    "timeMonth": 69,
+    "timeDay": 55,
+    "timeWeek": 64,
+    "timeMonth": 67,
     "timeYear": 70,
     "dailyMinutesDown": {
       "2024-10-15": 112,
@@ -130,8 +129,7 @@
       "2024-04-17": 440,
       "2024-02-21": 478,
       "2023-11-13": 139,
-      "2023-10-28": 89,
-      "2023-10-24": 31
+      "2023-10-28": 89
     }
   },
   {
@@ -142,13 +140,13 @@
     "status": "up",
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.89%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.70%",
     "time": 404,
-    "timeDay": 227,
-    "timeWeek": 183,
-    "timeMonth": 202,
+    "timeDay": 215,
+    "timeWeek": 209,
+    "timeMonth": 203,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2024-10-15": 112,
@@ -159,8 +157,7 @@
       "2024-04-17": 440,
       "2024-02-21": 478,
       "2023-11-13": 153,
-      "2023-10-28": 89,
-      "2023-10-24": 88
+      "2023-10-28": 89
     }
   },
   {
@@ -171,13 +168,13 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.89%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.70%",
     "time": 172,
-    "timeDay": 149,
-    "timeWeek": 112,
-    "timeMonth": 128,
+    "timeDay": 134,
+    "timeWeek": 130,
+    "timeMonth": 129,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2024-10-15": 112,
@@ -188,8 +185,7 @@
       "2024-04-17": 440,
       "2024-02-21": 477,
       "2023-11-13": 153,
-      "2023-10-28": 89,
-      "2023-10-24": 87
+      "2023-10-28": 89
     }
   }
 ]
