@@ -1,7 +1,7 @@
 url: https://fh-api.filmhouseng.com/cinema
-status: down
-code: 500
-responseTime: 29
-lastUpdated: 2025-01-12T13:25:53.498Z
+status: up
+code: 200
+responseTime: 19
+lastUpdated: 2025-01-12T13:31:49.678Z
 startTime: 2023-09-14T20:41:17.651Z
 generator: Upptime <https://github.com/upptime/upptime>
