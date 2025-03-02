@@ -1,7 +1,7 @@
 url: https://www.filmhouseng.com
-status: up
-code: 200
-responseTime: 635
-lastUpdated: 2025-03-01T23:14:47.208Z
+status: down
+code: 502
+responseTime: 159
+lastUpdated: 2025-03-02T18:35:28.463Z
 startTime: 2023-09-14T20:41:11.313Z
 generator: Upptime <https://github.com/upptime/upptime>
