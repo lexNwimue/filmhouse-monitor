@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
-    "time": 915,
-    "timeDay": 1298,
-    "timeWeek": 1482,
-    "timeMonth": 1275,
-    "timeYear": 950,
+    "time": 916,
+    "timeDay": 1079,
+    "timeWeek": 1362,
+    "timeMonth": 1283,
+    "timeYear": 949,
     "dailyMinutesDown": {
       "2025-07-02": 124,
       "2025-06-24": 288,
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 217,
-    "timeDay": 260,
-    "timeWeek": 203,
-    "timeMonth": 209,
+    "timeDay": 204,
+    "timeWeek": 216,
+    "timeMonth": 207,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-07-02": 124,
@@ -87,8 +87,7 @@
       "2025-04-18": 75,
       "2025-02-17": 109,
       "2025-02-14": 16,
-      "2025-02-13": 63,
-      "2024-10-15": 112
+      "2025-02-13": 63
     }
   },
   {
@@ -102,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.38%",
-    "time": 2518,
-    "timeDay": 141,
-    "timeWeek": 2175,
-    "timeMonth": 4534,
-    "timeYear": 2808,
+    "time": 2524,
+    "timeDay": 3399,
+    "timeWeek": 2193,
+    "timeMonth": 4537,
+    "timeYear": 2814,
     "dailyMinutesDown": {
       "2025-10-01": 21,
       "2025-09-20": 20,
@@ -144,8 +143,7 @@
       "2024-12-24": 19,
       "2024-12-18": 20,
       "2024-11-30": 20,
-      "2024-10-29": 20,
-      "2024-10-15": 112
+      "2024-10-29": 20
     }
   },
   {
@@ -160,9 +158,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 75,
-    "timeDay": 70,
-    "timeWeek": 67,
-    "timeMonth": 84,
+    "timeDay": 51,
+    "timeWeek": 63,
+    "timeMonth": 80,
     "timeYear": 75,
     "dailyMinutesDown": {
       "2025-07-02": 106,
@@ -178,8 +176,7 @@
       "2025-04-18": 75,
       "2025-02-17": 110,
       "2025-02-14": 16,
-      "2025-02-13": 63,
-      "2024-10-15": 112
+      "2025-02-13": 63
     }
   },
   {
@@ -188,16 +185,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "movie-banners",
     "status": "down",
-    "uptime": "83.92%",
+    "uptime": "83.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "66.81%",
     "time": 159,
-    "timeDay": 71,
-    "timeWeek": 33,
+    "timeDay": 52,
+    "timeWeek": 40,
     "timeMonth": 38,
-    "timeYear": 100,
+    "timeYear": 99,
     "dailyMinutesDown": {
       "2025-06-11": 1439,
       "2025-06-10": 1440,
@@ -320,8 +317,7 @@
       "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
-      "2025-02-10": 121,
-      "2024-10-15": 112
+      "2025-02-10": 121
     }
   },
   {
@@ -336,8 +332,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 124,
-    "timeDay": 140,
-    "timeWeek": 108,
+    "timeDay": 122,
+    "timeWeek": 115,
     "timeMonth": 113,
     "timeYear": 122,
     "dailyMinutesDown": {
@@ -353,8 +349,7 @@
       "2025-04-18": 75,
       "2025-02-17": 110,
       "2025-02-14": 16,
-      "2025-02-13": 63,
-      "2024-10-15": 112
+      "2025-02-13": 63
     }
   }
 ]
