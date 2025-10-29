@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
-    "time": 937,
-    "timeDay": 1229,
-    "timeWeek": 1009,
-    "timeMonth": 1238,
+    "time": 939,
+    "timeDay": 897,
+    "timeWeek": 944,
+    "timeMonth": 1239,
     "timeYear": 951,
     "dailyMinutesDown": {
       "2025-07-02": 124,
@@ -51,8 +51,7 @@
       "2024-11-22": 31,
       "2024-11-20": 252,
       "2024-11-19": 138,
-      "2024-11-03": 510,
-      "2024-10-29": 17
+      "2024-11-03": 510
     }
   },
   {
@@ -67,9 +66,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 217,
-    "timeDay": 285,
-    "timeWeek": 237,
-    "timeMonth": 211,
+    "timeDay": 192,
+    "timeWeek": 219,
+    "timeMonth": 207,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-07-02": 124,
@@ -97,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.40%",
-    "time": 2566,
-    "timeDay": 130,
-    "timeWeek": 2669,
-    "timeMonth": 3867,
-    "timeYear": 2830,
+    "time": 2571,
+    "timeDay": 3478,
+    "timeWeek": 2482,
+    "timeMonth": 3865,
+    "timeYear": 2837,
     "dailyMinutesDown": {
       "2025-10-01": 21,
       "2025-09-20": 20,
@@ -138,8 +137,7 @@
       "2025-01-10": 19,
       "2024-12-24": 19,
       "2024-12-18": 20,
-      "2024-11-30": 20,
-      "2024-10-29": 20
+      "2024-11-30": 20
     }
   },
   {
@@ -148,14 +146,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "cinema-list",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 76,
-    "timeDay": 51,
-    "timeWeek": 72,
+    "timeDay": 126,
+    "timeWeek": 81,
     "timeMonth": 78,
     "timeYear": 75,
     "dailyMinutesDown": {
@@ -181,14 +179,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/fh-api.filmhouseng.com.ico",
     "slug": "movie-banners",
     "status": "down",
-    "uptime": "84.21%",
+    "uptime": "84.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "66.83%",
     "time": 146,
-    "timeDay": 51,
-    "timeWeek": 49,
+    "timeDay": 50,
+    "timeWeek": 47,
     "timeMonth": 41,
     "timeYear": 94,
     "dailyMinutesDown": {
@@ -328,9 +326,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 123,
-    "timeDay": 128,
-    "timeWeek": 122,
-    "timeMonth": 115,
+    "timeDay": 119,
+    "timeWeek": 119,
+    "timeMonth": 114,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-07-02": 105,
